@@ -1,0 +1,77 @@
+.bg {
+
+  background-image: url(../pictures/water.avif);
+
+  background-size:cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 150vh;
+
+
+
+}
+
+
+
+.border {
+
+  border-style:solid;
+  border-width:1px solid black;
+  border-radius:100px 1000px 100px 1000px;
+  
+}
+
+.name {
+
+  text-align:center;
+  font-family:arial;
+  background-image: url(../pictures/feather.webp);
+  border-radius:100px 1000px 100px 1000px;
+  margin:0;
+
+  padding:20px 20px 10px 0;
+}
+
+.grid {
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  column-gap:70px;
+  row-gap:100px;
+  margin-top:20px;
+  margin-left:20px;
+}
+
+.img {
+
+  width:100%;
+  border-radius:100px ;
+  object-fit: cover;
+
+  margin-top:50px;
+  margin-bottom:-70px;
+  transition:transform 0.5s, border-radius 0.5s ;
+
+}
+
+.img:hover {
+
+  width:400px;
+  border-radius:200px;
+  transform: scale(1.8);
+
+  
+}
+
+a {
+
+  text-decoration: none;
+  color:white;
+ 
+}
+
+a:hover {
+
+  transform: scale(1.4);
+  border-width:100px;
+}

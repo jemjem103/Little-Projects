@@ -1,0 +1,80 @@
+input {
+
+    
+  margin-bottom:10px;
+  border-color:rgb(200, 200, 200);
+  border-style:solid;
+  font-size:20px;
+  font-family:arial;
+  
+}
+
+
+
+
+.f {
+
+  width:190px;
+  margin-left:500px;
+  margin-top:290px;
+
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:16px;
+  padding-bottom:16px;
+
+  border-radius:10px;
+  
+}
+.l {
+
+  width:190px;
+  
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:16px;
+  padding-bottom:16px;
+
+  border-radius:10px;
+  
+}
+
+.email {
+
+  margin-left:508px;
+  margin-top:5px;
+  width:410px;
+
+  border-radius:10px;
+
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:16px;
+  padding-bottom:16px;
+
+
+
+}
+
+button {
+
+  width:436px;
+
+  background-color:rgb(47, 127, 231);
+  color:white;
+  border:none;
+  border-radius:10px;
+  margin-left:508px;
+  margin-top:5px;
+
+  font-weight:bold;
+  font-size:30px;
+
+  padding-left:15px;
+  padding-right:15px;
+  padding-top:20px;
+  padding-bottom:20px;
+
+
+
+}
