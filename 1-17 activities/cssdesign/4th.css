@@ -1,0 +1,162 @@
+p{
+  margin:0;
+}
+p.b{
+  font-family:arial;}
+p.c{
+  font-family:verdana;
+ }
+p.d{
+  font-family:arial;
+ }
+p,.e,.e1,.e2,.e3,.f,.f1,.f2,.f3,.g,.g1,.g2{
+  font-family:arial;}
+p.e, .e1, .e2, .e3{
+  text-align:center;
+  
+}
+
+
+.a{
+  font-weight:bold;
+  font-size:30px;
+  font-family:tahoma;
+  margin:20px 0 30px 0;
+}
+.b{
+  font-weight:bold;
+  font-size:30px;
+  margin:20px 0 10px 0;
+}
+.b1{
+  font-style:italic;
+  color:red;
+  font-size:18px;
+  margin:0 0 30px 0;
+}
+
+.c{
+  font-weight:bold;
+  font-size:22px;
+  margin:20px 0 5px 0;
+}
+.c1{
+  font-size:17px;
+  color:grey;
+  margin:0 0 26px 0;
+}
+.c2{
+ font-size:18px;
+ width:320px;
+ line-height: 20px;
+ margin:0 0 26px 0;
+}
+.c3{
+  background-color: green;
+  color:white;
+  width:100px;
+  padding:7px 9px 7px 9px;
+  text-align:center;
+  border-radius:7px;
+  margin:0 0 30px 0;
+  
+  font-size:18px;
+}
+.d{
+  font-weight:bold;
+  font-size:25px;
+  margin:30px 0 20px 0;
+}
+.d1{
+  text-align:center;
+  width:330px;
+  margin:0 0 20px 0;
+}
+.d2{
+  color:rgb(99, 157, 204);
+  text-align:center;
+  width:330px;
+  margin:0 0 30px 0;
+}
+.e{
+  color:rgb(238, 126, 126);
+  font-size:14px;
+  margin:0 0 10px 0;
+  font-weight:bold;
+  margin:30px 0 10px 0;
+}
+.e1{
+  font-weight:bold;
+  font-size:27px;
+  margin:0 0 5px 0;
+}
+.e2{
+  font-weight:bold;
+  font-size:46px;
+  margin:0 0 10px 0;
+}
+.e3{
+  font-size:19px;
+  color:rgb(78, 74, 74);
+  margin:0 0 0 2px;
+  margin:0 0 10px 0;
+}
+.e4{
+  background-color: rgb(34, 143, 231);
+  text-align:center;
+  padding:7px;
+  border-radius:100px;
+  border:none;
+  font-weight:bold;
+  color:white;
+
+  margin:0 675px 30px 675px;
+  
+}
+
+.f{
+  font-size:35px;
+  margin:0 0 7px 0;
+  margin:30px 0 10px 0;
+}
+.fusd{
+  font-size:17px;
+  font-weight:bold;
+  color:grey;
+  
+}
+.f1{
+  color:green;
+  margin:0 0 10px 0;
+}
+.f2{
+  color:grey;
+  margin:0 0 30px 0;
+}
+.fnum{
+  color:red;
+  
+}
+
+.g{
+  font-weight:bold;
+  font-size:20px;
+  margin:30px 0 7px 0;
+}
+.gfree{
+  font-weight:bold;
+  font-size:20px;
+  color:grey;
+}
+.g1{
+  font-size:20px;
+  width:700px;
+  margin:0 0 28px 0;
+}
+.g2{
+  font-size:20px;
+  margin:0 0 30px 0;
+}
+.gat{
+  color:rgb(28, 139, 184)
+}

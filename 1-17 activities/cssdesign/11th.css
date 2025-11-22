@@ -1,0 +1,158 @@
+.div,.px200,.it1,.it3,.im2,.im4,.ie2{
+  background-color: rgb(10, 139, 118);
+  font-family: 'Roboto', Arial,sans-serif;
+}
+.div,.px75,.it2,.im1,.im3,.ie1{
+  background-color: rgb(211, 164, 9);
+  font-family:'Roboto,arial,sans serif';
+}
+
+
+
+.first{
+  display:grid;
+  grid-template-columns: 200px 75px;
+  margin:20px 0 20px 0;
+}
+.second{
+  display:grid;
+  grid-template-columns:50px 1fr 75px;
+  margin:20px 0 20px 0;
+}
+.third{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin:20px 0 20px 0;
+}
+.fourth{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border:1px solid rgb(179, 170, 170);
+  margin:20px 0 20px 0;
+  height:50px;
+  align-items:center;
+}
+
+.fifth{
+  border:1px solid rgb(160, 158, 158);
+  border-radius:6px;
+  width:300px;
+  margin:20px 0 20px 0;
+
+
+}
+
+
+.fifth1{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding:6px 12px 6px 12px;
+
+  font-family: 'Roboto';
+ 
+}
+.num1{
+  background-color: rgb(49, 109, 245);
+  color:white;
+  padding:3px 10px 3px 10px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: bold;
+  margin:0;
+
+}
+
+.sixth{
+  width:900px;
+  height:30px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding:15px 0 15px 0;
+
+  background-color: rgb(120, 82, 178);
+}
+.ho{
+  color:white;
+  font-family: 'Roboto';
+  margin:0 0 0 20px;
+}
+.search{
+  border-radius: 50px;
+  border:none;
+  width:58%;
+  height:30px;
+  padding:4px 30px 4px 30px;
+  min-width: 200px;
+  
+}
+.down{
+  border:1px solid white;
+  color:white;
+  font-family: 'Roboto';
+  background-color: rgb(120, 82, 178);
+  margin:0 10px 0 0;
+  width:120px;
+  height:120%;
+}
+
+
+
+
+
+.box{
+  font-family:'Roboto',arial;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top:20px;
+  margin-bottom:20px;
+  
+}
+.pet{
+  width:60px;
+  height:60px;
+  border-radius:50px;
+  object-fit: cover;
+  margin-right:15px;
+}
+.para{
+  width:200px;
+}
+
+.name{
+  font-weight:bold;
+  margin-bottom:1px;
+  margin-top:10px;
+  font-size:18px;
+}
+.pet-name{
+  color: rgb(150, 150, 150);
+  margin-bottom:6px;
+  margin-top:5px;
+}
+.grey{
+  color:grey;
+}
+.small{
+  color: rgb(150, 150, 150);
+  font-size:14px;
+  margin-top:1px;
+}
+.follow{
+  margin:0 0 0 90px;
+  padding:12px 19px;
+  font-size:17px;
+  line-height:12px;
+  border-radius:5px;
+  border:none;
+  background-color: rgb(29, 155, 240);
+  color:white;
+  font-weight:bold;
+}
+

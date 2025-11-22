@@ -1,0 +1,107 @@
+.one{
+  background-color: skyblue;
+}
+.two{
+  background-color: pink;
+}
+.three{
+  background-color: skyblue;
+}
+.four{
+  background-color: pink;
+}
+.five{
+  background-color: skyblue;
+}
+.six{
+  background-color: pink;
+}
+.seven{
+  background-color: pink;
+}
+.eight{
+  background-color: pink;
+}
+.nine{
+  background-color: pink;
+}
+.ten{
+  background-color: pink;
+}
+.eleven{
+  background-color: pink;
+}
+.twelve{
+  background-color: pink;
+}
+.thirteen{
+  background-color: pink;
+
+}
+
+
+.uno{
+  display:grid;
+  grid-template-columns: 200px 75px;
+}
+.dos{
+  display:grid;
+  grid-template-columns: 50px 1fr 75px;
+}
+.tres{
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr 1fr;
+  column-gap:20px;
+  row-gap:10px;
+}
+
+
+
+.box5{
+  width:150px;
+  height:230px;
+  margin:20px 15px 50px 0;
+  display:block;
+  box-shadow:0 0 10px rgb(117, 112, 112);
+ 
+  
+ 
+}
+.oli{
+  width:100%;
+  height:60%;
+  object-fit: cover;
+  margin:0 0 0 0;
+}
+.friend{
+  margin:5px 0 5px 5px;
+  font-size:15px;
+  font-weight:bold;
+}
+.ad{
+  color:grey;
+  font-size:12px;
+  margin:7px 0 5px 5px;
+}
+.frnd{
+  margin:7px 0 5px 5px;
+  color:white;
+  background-color: rgb(4, 124, 172);
+  border:none;
+  border-radius:3px;
+  width:87px;
+  height:25px;
+}
+
+.align{
+
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid-cat{
+  align-items: center;
+  width:150px;
+
+}
+
