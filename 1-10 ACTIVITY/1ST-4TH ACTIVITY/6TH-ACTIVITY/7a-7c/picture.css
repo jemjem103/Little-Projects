@@ -1,0 +1,26 @@
+.pt {
+
+  width:200px;
+  border-radius:14px;
+
+}
+
+.pt1 {
+
+  width:200px;
+  height:200px;
+  object-fit:cover;
+  object-position:center ;
+ 
+  
+  margin-left:100px;
+}
+
+.pt2 {
+
+  width:200px;
+  height:200px;
+  border-radius:100px;
+
+  margin-left:100px;
+}
